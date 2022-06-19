@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2050
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP2projekt", "OOP2projekt\OOP2projekt.csproj", "{FAE77B6E-383D-46F8-91B9-2E5EB7A5D454}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{F3379B60-4A79-4655-8D8B-7B70C570F7AD}"
+	ProjectSection(SolutionItems) = preProject
+		CodeNotValidException.cs = CodeNotValidException.cs
+		NullValueException.cs = NullValueException.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FAE77B6E-383D-46F8-91B9-2E5EB7A5D454}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAE77B6E-383D-46F8-91B9-2E5EB7A5D454}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAE77B6E-383D-46F8-91B9-2E5EB7A5D454}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAE77B6E-383D-46F8-91B9-2E5EB7A5D454}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {52EBB268-5AB1-4C8A-AD24-35840A4FECAA}
+	EndGlobalSection
+EndGlobal

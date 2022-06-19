@@ -1,0 +1,27 @@
+{
+  "Number": 1,
+  "Customer": {
+    "Number": 1,
+    "Name": "Mattias",
+    "Phone": "0702",
+    "Email": "mattias@mail.com"
+  },
+  "OrderDate": "2020-10-28T00:00:00+01:00",
+  "DeliveryAddress": "gatan",
+  "PaymentCompleted": false,
+  "PaymentRefunded": false,
+  "Dispatched": false,
+  "Items": [
+    {
+      "Product": {
+        "Code": 13,
+        "Name": "äpple",
+        "Price": 10,
+        "Stock": 0,
+        "Firstavailable": "2024-09-03T00:00:00",
+        "NextStocking": "2024-10-03T00:00:00"
+      },
+      "Count": 5
+    }
+  ]
+}

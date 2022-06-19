@@ -1,0 +1,32 @@
+[
+  {
+    "Number": 1,
+    "Name": "Mattias",
+    "Phone": "0702",
+    "Email": "mattias@mail.com"
+  },
+  {
+    "Number": 2,
+    "Name": "Jakob",
+    "Phone": "0703",
+    "Email": "Jakob@mail.com"
+  },
+  {
+    "Number": 4,
+    "Name": "Kaspar",
+    "Phone": "0705",
+    "Email": "Kaspar@mail.com"
+  },
+  {
+    "Number": 5,
+    "Name": "Eric",
+    "Phone": "0704",
+    "Email": "Eric@mail.com"
+  },
+  {
+    "Number": 6,
+    "Name": "Alex",
+    "Phone": "073",
+    "Email": "Alex@mail.com"
+  }
+]
